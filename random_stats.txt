@@ -1,0 +1,40 @@
+mean=52.24, var=841.252
+mean=47.314, var=818.231
+mean=49.898, var=859.066
+mean=50.856, var=874.115
+=== Random Statistics ===
+Time: 2026-01-08 00:08:42
+Count: 500
+Mean: 50.1800
+Variance: 871.7956
+Standard Deviation: 29.5262
+Min: 0
+Max: 100
+=========================
+=== Random Statistics ===
+Time: 2026-01-08 10:56:29
+Count: 500
+Mean: 50.4200
+Variance: 886.8236
+Standard Deviation: 29.7796
+Min: 0
+Max: 100
+=========================
+=== Random Statistics ===
+Time: 2026-01-08 11:05:04
+Count: 500
+Mean: 49.2260
+Variance: 802.2069
+Standard Deviation: 28.3233
+Min: 0
+Max: 100
+=========================
+=== Random Statistics ===
+Time: 2026-01-08 11:21:31
+Count: 500
+Mean: 48.8020
+Variance: 844.5468
+Standard Deviation: 29.0611
+Min: 0
+Max: 100
+=========================
